@@ -1,0 +1,21 @@
+table{
+  font-faimly: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin-top:20px;
+
+}
+td, th{
+  border: 1px solid #ddddddd;
+  text-align: center;
+  padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #ddddddd
+}
+.p-input-icon-right{
+    margin-bottom: 20px;
+}
+.p-input-icon-right input{
+    padding: 10px
+}
